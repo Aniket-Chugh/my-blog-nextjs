@@ -59,8 +59,7 @@ I built this project to practice:
 - React
 - Tailwind CSS
 
-## 📸 Screenshots
-(Add screenshots of your site here)
+
 
 ## 📂 How to run
 ```bash
