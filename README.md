@@ -34,3 +34,38 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+# MyBlog — A Blog Website using Next.js
+
+This is a responsive blog listing website built using **Next.js**, **React**, and **Tailwind CSS**.
+
+## 📌 Features
+- Sticky and responsive Navbar
+- Blog listing with title, category & description
+- Category filter section
+- Clean UI with Tailwind CSS
+- Footer section
+
+## 🚀 Why I built this?
+I built this project to practice:
+- Building responsive layouts with Tailwind CSS
+- Using React components with Next.js (App router)
+- Creating reusable and modular frontend structure
+
+## 🛠️ Tech Stack
+- Next.js (App directory)
+- React
+- Tailwind CSS
+
+## 📸 Screenshots
+(Add screenshots of your site here)
+
+## 📂 How to run
+```bash
+git clone https://github.com/yourusername/my-blog-nextjs.git
+cd my-blog-nextjs
+npm install
+npm run dev
+
